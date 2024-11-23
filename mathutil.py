@@ -1,5 +1,3 @@
-# Om Shewale 730827719
-# Griffin Bacheldor 730397884
 import math
 from collections import deque
 
